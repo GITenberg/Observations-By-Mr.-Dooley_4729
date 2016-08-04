@@ -1,0 +1,27 @@
+_repo: Observations-By-Mr.-Dooley_4729
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunne, Finley Peter
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '1559'
+    url: http://www.gutenberg.org/2009/agents/1559
+    wikipedia: http://en.wikipedia.org/wiki/Finley_Peter_Dunne
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dooley, Mr. (Fictitious character) -- Fiction'
+- !lcsh 'Irish Americans -- Fiction'
+- !lcc 'PN'
+- GITenberg
+title: Observations By Mr. Dooley
+url: http://www.gutenberg.org/ebooks/4729
